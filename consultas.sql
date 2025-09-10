@@ -1,7 +1,5 @@
--- ===========================
--- PROYECTO SQL OLAP - MUNDIALES
--- ===========================
 
+-- Trabajo Practico 3 - MUNDIALES
 -- CONSULTA 1: CTE - Promedio de goles por partido en cada mundial y fase
 WITH goles_por_partido AS (
   SELECT
