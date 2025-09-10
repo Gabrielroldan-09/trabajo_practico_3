@@ -19,10 +19,9 @@ Este proyecto aplica **CTEs, Window Functions y OLAP (emulado)** sobre un datase
 3. **Evolución histórica de goles:** El total de goles por torneo fue creciendo hasta cierto punto, pero en mundiales recientes la media de goles por partido es más estable.
 
 ## 🚀 Cómo reproducir
-1. Abrir `mundial_2022.db` en **DB Browser for SQLite**.  
+1. Abrir `mundial.db` en **DB Browser for SQLite**.  
 2. Ir a la pestaña *Execute SQL* y correr el contenido de `consultas.sql`.  
 3. Revisar los resultados de cada consulta y exportar si es necesario.  
 
 ---
-✍️ *Autor: [Tu nombre]*  
-📅 *Proyecto académico de práctica SQL*
+📅 *Trabajo Practico 3 - UTN - FRT - BASE DE DATOS II*
