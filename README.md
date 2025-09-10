@@ -3,7 +3,7 @@
 Este proyecto aplica **CTEs, Window Functions y OLAP (emulado)** sobre un dataset con **todos los partidos de los Mundiales de Fútbol**.
 
 ## 📂 Contenido del repositorio
-- `mundial_2022.db` → Base de datos SQLite con la tabla `todos_los_partidos_de_los_mundiales`
+- `mundial.db` → Base de datos SQLite con la tabla `todos_los_partidos_de_los_mundiales`
 - `todos_los_partidos_de_los_mundiales.csv` → Dataset original importado
 - `consultas.sql` → Archivo con las 3 consultas obligatorias
 - `README.md` → Explicación y principales insights obtenidos
