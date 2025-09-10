@@ -3,7 +3,7 @@
 Este proyecto aplica **CTEs, Window Functions y OLAP (emulado)** sobre un dataset con **todos los partidos de los Mundiales de Fútbol**.
 
 ## 📂 Contenido del repositorio
-- `mundial.db` → Base de datos SQLite con la tabla `todos_los_partidos_de_los_mundiales`
+- `tp3mundiales.db` → Base de datos SQLite con la tabla `todos_los_partidos_de_los_mundiales`
 - `todos_los_partidos_de_los_mundiales.csv` → Dataset original importado
 - `consultas.sql` → Archivo con las 3 consultas obligatorias
 - `README.md` → Explicación y principales insights obtenidos
@@ -19,7 +19,7 @@ Este proyecto aplica **CTEs, Window Functions y OLAP (emulado)** sobre un datase
 3. **Evolución histórica de goles:** El total de goles por torneo fue creciendo hasta cierto punto, pero en mundiales recientes la media de goles por partido es más estable.
 
 ## 🚀 Cómo reproducir
-1. Abrir `mundial.db` en **DB Browser for SQLite**.  
+1. Abrir `tp3mundiales.db` en **DB Browser for SQLite**.  
 2. Ir a la pestaña *Execute SQL* y correr el contenido de `consultas.sql`.  
 3. Revisar los resultados de cada consulta y exportar si es necesario.  
 
